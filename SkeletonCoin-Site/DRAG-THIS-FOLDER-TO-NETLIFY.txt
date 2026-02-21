@@ -1,0 +1,12 @@
+✅ READY TO UPLOAD
+
+1. Go to Netlify: https://app.netlify.com
+2. Scroll to "deploy manually" (or "browse to upload")
+3. Drag this ENTIRE FOLDER (SkeletonCoin-Site) into the upload area
+   — OR click "browse to upload" and select this folder
+
+4. Done! Netlify will give you a live URL.
+
+📁 This folder contains: index.html, assets, sitemap.xml, robots.txt, and guides.
+
+For step-by-step help, see STEP-BY-STEP-GUIDE.md or QUICK-START.md.
